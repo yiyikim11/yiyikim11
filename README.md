@@ -7,7 +7,6 @@
 - 🌐 Portfolio: [Coming soon]
 - 📬 Feel free to reach out: yiyikim11@gmail.com | facebook.com/kim.yiyi.58
 
---
 
 🛠 Languages and Tools
 
