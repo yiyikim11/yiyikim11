@@ -12,22 +12,27 @@
 
 # Languages and Tools:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</div>
+# Languages and Tools:
 
-
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,redux,html,css,express,py,c,mongodb,graphql,mysql,git,github" />
-
+<p>
+  <img src="https://img.shields.io/badge/-Java-F8F9FA?style=flat-square&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JS-F8F9FA?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JavaScript-F8F9FA?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-typescript-F8F9FA?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/-React-F8F9FA?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Redux-F8F9FA?style=flat-square&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/-HTML5-F8F9FA?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/-CSS3-F8F9FA?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-express-F8F9FA?style=flat-square&logo=express&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-F8F9FA?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/-C-F8F9FA?style=flat-square&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/-MongoDB-F8F9FA?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/-GraphQL-F8F9FA?style=flat-square&logo=graphql&logoColor=E10098" />
+  <img src="https://img.shields.io/badge/-MySQL-F8F9FA?style=flat-square&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/-Git-F8F9FA?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/-GitHub-F8F9FA?style=flat-square&logo=github&logoColor=181717" />
+</p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=default)
