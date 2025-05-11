@@ -7,9 +7,9 @@
 - 🌐 Portfolio: [Coming soon]
 - 📬 Feel free to reach out: yiyikim11@gmail.com | facebook.com/kim.yiyi.58
 
----
+--
 
-### 🛠 Languages and Tools
+🛠 Languages and Tools
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -19,12 +19,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
----
-
-### 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=default)
 
----
-
-Thanks for visiting my GitHub profile! ⭐
