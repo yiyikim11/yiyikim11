@@ -8,7 +8,7 @@
 - 📬 Feel free to reach out: [yiyikim11@gmail.com](mailto:yiyikim11@gmail.com) | [facebook.com/kim.yiyi.58](https://facebook.com/kim.yiyi.58)
 
 
-🛠 Languages and Tools
+Languages and Tools
 <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
