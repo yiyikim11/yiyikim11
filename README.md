@@ -1,4 +1,4 @@
-# 👋 Hi there
+### 👋 Hi there
 
 - 💡 Welcome to my profile!
 - 🎓 I'm a CS sophomore based in Phnom Penh
