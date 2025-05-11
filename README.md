@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 - 💡 Welcome to my profile!
-- 🎓 I'm a CS sophomore based in Phnom Penh, Cambodia.
+- 🎓 I'm a CS sophomore based in Phnom Penh
 - 🤖 I’m passionate about robotics, software, and turning wild ideas into real-world builds.
 - 🌍 Always exploring new tech and learning opportunities.
 - 🌐 Portfolio: [Coming soon]
