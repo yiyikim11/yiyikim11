@@ -1,8 +1,8 @@
 ### 👋 Hi there
 
 - 💡 Welcome to my profile!
-- 🎓 I'm a CS sophomore based in Phnom Penh
-- 🤖 I’m passionate about robotics, software, and turning wild ideas into real-world builds.
+- 🎓 I'm a CS student based in Phnom Penh
+- ❄ I am current learning full-stack web development
 - 🌍 Always exploring new tech and learning opportunities.
 - 🌐 Portfolio: [Coming soon]
 - 📬 Feel free to reach out: [yiyikim11@gmail.com](mailto:yiyikim11@gmail.com) | [facebook.com/kim.yiyi.58](https://facebook.com/kim.yiyi.58)
