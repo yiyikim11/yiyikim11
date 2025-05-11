@@ -5,7 +5,7 @@
 - 🤖 I’m passionate about robotics, software, and turning wild ideas into real-world builds.
 - 🌍 Always exploring new tech and learning opportunities.
 - 🌐 Portfolio: [Coming soon]
-- 📬 Feel free to reach out: [yiyikim11@gmail.com](mailto:yiyikim11@gmail.com) | [Facebook](https://facebook.com/kim.yiyi.58)
+- 📬 Feel free to reach out: [yiyikim11@gmail.com](mailto:yiyikim11@gmail.com) | [facebook.com/kim.yiyi.58](https://facebook.com/kim.yiyi.58)
 
 
 🛠 Languages and Tools
