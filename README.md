@@ -2,9 +2,9 @@
 
 - 💡 Welcome to my profile!
 - 🎓 I'm a CS student based in Phnom Penh
-- ❄ I am current learning full-stack web development
+- ❄ I am currently learning full-stack web development
 - 🌍 Always exploring new tech and learning opportunities.
-- 🌐 Portfolio: [Coming soon]
+- 🌐 Portfolio: [Coming soon *I don't know when honestly*]
 - 📬 Feel free to reach out: [yiyikim11@gmail.com](mailto:yiyikim11@gmail.com) | [facebook.com/kim.yiyi.58](https://facebook.com/kim.yiyi.58)
 
 
