@@ -22,5 +22,6 @@ Languages and Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=yiyikim11&layout=compact&theme=default](https://camo.githubusercontent.com/2e431502b43b8add0a2c020f4a3cfc8120bd56ad46a1eda378ba5cf229f460e7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d796979696b696d3131266c61796f75743d636f6d70616374267468656d653d64656661756c74))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiyikim11&layout=compact&theme=dark)
+
 
