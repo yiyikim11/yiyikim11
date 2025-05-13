@@ -1,10 +1,10 @@
 ### 👋 Hi there
 
 - 💡 Welcome to my profile!
-- 🎓 I'm a CS student based in Phnom Penh
+- 🎓 I'm a Sophomore major in Computer Science
 - ❄ I am currently learning full-stack web development
-- 🌍 Always exploring new tech and learning opportunities.
-- 🌐 Portfolio: [Coming soon *I don't know when honestly*]
+- 🌍 Always exploring new tech and learning opportunities
+- 🌐 Portfolio: [Coming soon **I don't know when honestly**]
 - 📬 Feel free to reach out: [yiyikim11@gmail.com](mailto:yiyikim11@gmail.com) | [facebook.com/kim.yiyi.58](https://facebook.com/kim.yiyi.58)
 
 
@@ -22,7 +22,7 @@ Languages and Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 
-<!-- Dark mode -->
+
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyikim11&layout=compact&theme=tokyonight"
