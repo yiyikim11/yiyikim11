@@ -4,7 +4,7 @@
 - 🎓 I'm a Sophomore major in Computer Science
 - ❄ I am currently learning full-stack web development
 - 🌍 Always exploring new tech and learning opportunities
-- 🌐 Portfolio: [Coming soon **I don't know when honestly**]
+- 🌐 Portfolio: [Coming soon]
 - 📬 Feel free to reach out: [yiyikim11@gmail.com](mailto:yiyikim11@gmail.com) | [facebook.com/kim.yiyi.58](https://facebook.com/kim.yiyi.58)
 
 
