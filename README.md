@@ -25,7 +25,7 @@ Languages and Tools
 <!-- Dark mode -->
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyiyi58&layout=compact&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyikim11&layout=compact&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <img 
