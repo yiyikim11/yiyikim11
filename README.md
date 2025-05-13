@@ -29,7 +29,7 @@ Languages and Tools
     media="(prefers-color-scheme: dark)"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyiyi58&layout=compact&theme=default"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyikim11&layout=compact&theme=default"
     alt="Top languages"
   />
 </picture>
