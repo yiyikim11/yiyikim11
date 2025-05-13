@@ -2,10 +2,10 @@
 
 - 💡 Welcome to my profile!
 - 🎓 I'm a Sophomore major in Computer Science
-- ❄ I am currently learning full-stack web development
+- ❄ I am currently learning laravel
 - 🌍 Always exploring new tech and learning opportunities
 - 🌐 Portfolio: [Coming soon]
-- 📬 Feel free to reach out: [yiyikim11@gmail.com](mailto:yiyikim11@gmail.com) | [facebook.com/kim.yiyi.58](https://facebook.com/kim.yiyi.58)
+- 📬 Feel free to reach out: [yiyikim11@gmail.com](mailto:yiyikim11@gmail.com) | [Facebook](https://facebook.com/kim.yiyi.58)
 
 
 Languages and Tools
