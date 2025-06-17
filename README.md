@@ -4,7 +4,7 @@
 - 🎓 I'm a Sophomore major in Computer Science
 - ❄ I am currently learning laravel
 - 🌍 Always exploring new tech and learning opportunities
-- 🌐 Portfolio: https://yiyikim.vercel.app/
+- 🌐 Portfolio: 
 - 📬 Feel free to reach out: [yiyikim11@gmail.com](mailto:yiyikim11@gmail.com) | [Facebook](https://facebook.com/kim.yiyi.58)
 
 
