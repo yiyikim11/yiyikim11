@@ -3,7 +3,7 @@
 - 💡 Welcome to my profile!
 - 🎓 I'm a junior majoring in Computer Science
 - 🌍 Always exploring new tech and learning opportunities
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://yiyikim11.vercel.app/
 - 📬 Feel free to reach out: [yiyikim11@gmail.com](mailto:yiyikim11@gmail.com)
   
 <picture>
